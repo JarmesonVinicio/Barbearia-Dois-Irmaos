@@ -2,7 +2,10 @@
 Sistema para a Barbearia Dois Irmãos, a ideia é simplificar e agilizar o processo de agendamento dos clientes, facilitar o controle de estoque e gerenciar o perfil de cada funcionário e cliente do estabelecimento. 
 
 ### Tecnologias utilizadas 🖥
+- SPRING BOOT
+- HTML
 - CSS
+- JAVASCRIPT
 - MySQL Workbench
 - Git Bash
 - GitHub
@@ -11,8 +14,11 @@ Sistema para a Barbearia Dois Irmãos, a ideia é simplificar e agilizar o proce
 - Jarmeson Vinicio (Mister Jam)
 
 ### Funcionalidades do sistema (requisitos)
-- Cadastro de Usuário
+#### PRIORIDADE:
 - Login
 - Controle de estoque (adição, edição e remoção)
-- Agendamento de horários
+- Tela de agendamentos (adição, edição e remoção)
+  
+#### EM SEGUNDO PLANO:
+- Cadastro de Usuário
 - Gestão de pagamentos 
